@@ -1,0 +1,21 @@
+export const LANDMARKS = {
+    NOSE: 0,
+    RIGHT_EAR: 7,
+    LEFT_EAR: 8,
+    RIGHT_SHOULDER: 11,
+    LEFT_SHOULDER: 12,
+    RIGHT_ELBOW: 13,
+    LEFT_ELBOW: 14,
+    RIGHT_WRIST: 15,
+    LEFT_WRIST: 16,
+    RIGHT_HIP: 23,
+    LEFT_HIP: 24,
+    RIGHT_KNEE: 25,
+    LEFT_KNEE: 26,
+    RIGHT_ANKLE: 27,
+    LEFT_ANKLE: 28,
+    RIGHT_HEEL: 29,
+    LEFT_HEEL: 30,
+    RIGHT_FOOT: 31,
+    LEFT_FOOT: 32 
+  };
